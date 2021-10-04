@@ -2,7 +2,6 @@
 banner = "img/banners/agmnotice-v3.png"
 categories = ["publications "]
 date = 2021-10-01T04:00:00Z
-draft = true
 tags = ["events"]
 title = "AGM Notice --- October 27th, 2021 @ 6:00 pm"
 
