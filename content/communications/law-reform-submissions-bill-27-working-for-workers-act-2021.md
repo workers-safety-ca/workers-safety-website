@@ -2,7 +2,6 @@
 banner = "img/banners/law-reform.png"
 categories = ["law reform"]
 date = 2021-12-01T05:00:00Z
-draft = true
 tags = ["health and safety"]
 title = "Law Reform - Submissions re: Bill 27 Working for Workers Act, 2021"
 
