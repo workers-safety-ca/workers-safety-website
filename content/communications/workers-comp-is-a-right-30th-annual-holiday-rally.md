@@ -1,5 +1,5 @@
 +++
-banner = "img/banners/holiday-demo2-2021-768x768-small.png"
+banner = "img/banners/holiday-demo2-2021-small.png"
 categories = ["event", "injured workers"]
 date = 2021-12-07T14:00:00Z
 tags = ["workers compensation"]
