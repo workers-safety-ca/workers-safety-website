@@ -1,10 +1,10 @@
 +++
-banner = ""
+banner = "img/banners/law-reform.png"
 categories = ["law reform"]
 date = 2021-12-01T05:00:00Z
 draft = true
 tags = ["health and safety"]
-title = "Law Reform Submissions: Bill 27 Working for Workers Act, 2021"
+title = "Law Reform - Submissions re: Bill 27 Working for Workers Act, 2021"
 
 +++
 The Workers' Health and Safety Legal Clinic ("the Clinic") is a community legal aid clinic funded by Legal Aid Ontario. Our mandate is to provide legal advice and representation to non-unionized low wage workers in Ontario who face health and safety problems at work. 
