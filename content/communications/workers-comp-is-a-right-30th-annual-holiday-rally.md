@@ -2,7 +2,6 @@
 banner = "img/banners/holiday-demo2-2021-768x768.png"
 categories = ["event", "injured workers"]
 date = 2021-12-07T14:00:00Z
-draft = true
 tags = ["workers compensation"]
 title = "30th Annual Christmas Demo --- December 14th @ 10AM."
 
