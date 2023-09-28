@@ -10,7 +10,7 @@ The Workers' Health and Safety Legal Clinic’s Annual Report outlines the activ
 
 It further details the Clinic’s efforts to continue providing consistently high quality services in a cost-effective, efficient and innovative manner.
 
-The Clinic provides such legal services as advice, representation, public legal education and law reform concerning occupational health and safety and related workplace laws..
+The Clinic provides such legal services as advice, representation, public legal education and law reform concerning occupational health and safety and related workplace laws.
 
 ***
 
