@@ -17,24 +17,51 @@ paginate = 10
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
+    # email. Visitors can send up to a 50 emails each month for free.
     #
     # What you need to do for the setup?
     #
-    # - set your email address under 'email' below
+    # - register your account to https://formspree.io/register
+    # - login and create new form
+    # - set your form's endpoint url under 'formspree_action' below
     # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
+    # - test a dummy email yourself
     # - you're done. Happy mailing!
     #
-    # Enable the contact form by entering your Formspree.io email
+    # Enable the contact form by entering your Formspree.io endpoint url
+    formspree_action = "https://formspree.io/sample/of/endpoint"
+    contact_form_ajax = false
+
+    # Formspree form supports Google reCAPTCHA Key (type v2).
+    # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
+    #
+    # By default, Formspree use a redirect page for recaptcha widget.
+    # If you use a recaptcha widget in your contact page, you should do next steps.
+    # (if you don't want, skip these steps)
+    #
+    #   1. register your site on Google recaptcha admin page: https://www.google.com/recaptcha/admin
+    #   2. select reCAPTCHA v2 and checkbox widget type.
+    #   3. remember site key and secret key.
+    #   4. enter secret key into "Custom reCAPTCHA Key" field in your Formspree form setting page.
+    #   5. change `enableRecaptchaInContactForm` is to true
+    #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
+    #
+    enableRecaptchaInContactForm = false
+    googleRecaptchaKey = "6Ldr-vQZAAAAANkqk5sABD9TjKyNwwhYbCcS0c5I"
     email = "whslc@lao.on.ca"
 
     about_us = "<p>Workers' Health and Safety Legal Clinic</p>"
     about_description = "<p>Advocating for workers' rights</p>"
     copyright = "Copyright (c) 2016, WHSLC; all rights reserved."
     date_format = "2006-01-02"
+
+    dropdown_mouse_over = false
+
+    disabled_logo = false
+    logo_text = "Workers' Health and Safety Legal Clinic"
     logo = "img/whslc4Clogo.jpg"
+    # logo_small = "img/logo-small.png"
+    # contact_url = "/contact"
     address = """<p><strong>Workers' Health and Safety Legal Clinic</strong>
         <br>Monday - Friday
         <br>9am - 5pm
@@ -55,7 +82,7 @@ paginate = 10
     name = "Home"
     url  = "/"
     weight = 1
-    
+
 [[params.menu]]
     name = "Legal Services"
     url  = "/features/legal-services/"
@@ -69,28 +96,28 @@ paginate = 10
 [[params.menu]]
     name = "Law reform"
     url  = "/features/law-reform/"
-    weight = 4 
-    
+    weight = 4
+
 [[params.menu]]
     name = "Links"
     url  = "/menu/links/"
-    weight = 5   
-     
+    weight = 5
+
 [[params.menu]]
     name = "Communications"
     url  = "/communications/"
     weight = 6
-    
+
 [[params.menu]]
     name = "Membership"
     url  = "/menu/member/"
     weight = 7
-    
+
 [[params.menu]]
     name = "About Us"
     url  = "/menu/about-us/"
     weight = 8
-   
+
 [[params.menu]]
     name = "Contact Us"
     url  = "/menu/contact/"
@@ -106,12 +133,22 @@ paginate = 10
 
 [params.carousel]
     enable = true
-    # All carousel items are defined in their own files. 
-    # /data/carousel 
+    # All carousel items are defined in their own files.
+    # /data/carousel
     # /static/img/carousel
-   
+
+[params.carouselHomepage]
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more information take a look at the README.
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
 [params.features]
     enable = true
+    cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files.
     # /data/features
 
@@ -132,7 +169,7 @@ paginate = 10
 
 [params.clients]
     enable = true
-    # All clients are defined in their own files. 
+    # All clients are defined in their own files.
     # /data/clients
     title = "Resources"
     subtitle = "We are here to help"
@@ -143,3 +180,11 @@ paginate = 10
     enable = true
     title = "Communications"
     subtitle = "Here you will find our latest newsletters, public activities and more."
+
+[params.footer.recent_posts]
+    enable = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
