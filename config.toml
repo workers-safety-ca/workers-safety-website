@@ -83,7 +83,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Phone"
-    url = "tel:416-971-8832"
+    url = "tel:1-800-668-8258"
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
 [[menu.topbar]]
@@ -140,7 +140,7 @@ pluralizelisttitles = false
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
+    # formspree_action = "https://formspree.io/sample/of/endpoint"
     contact_form_ajax = false
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
@@ -173,7 +173,7 @@ pluralizelisttitles = false
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    contact_url = "/contact"
+    contact_url = "/menu/contact"
     address = """<p class="text-uppercase"><strong>Workers' Health and Safety Legal Clinic</strong>
         <br>Monday - Friday
         <br>9am - 5pm
@@ -234,7 +234,7 @@ pluralizelisttitles = false
     # For more information take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
@@ -242,7 +242,7 @@ pluralizelisttitles = false
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "far fa-file-alt"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
@@ -254,8 +254,8 @@ pluralizelisttitles = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+    title = "Resources"
+    subtitle = "We are here to help."
 
 [params.recent_posts]
     enable = true
