@@ -45,4 +45,11 @@ This workflow involves going to the [staging repo](https://github.com/workers-sa
 
 ## Theme
 
-The theme is hugo-universal which is linked via a git submodule. It is currently not customized, but in order to do so the whole theme should be copied into a separate directory, renamed and update `config.toml` to point to the customized theme. 
+The theme is hugo-universal which is linked via a git submodule. It is currently not customized, but in order to do so the whole theme should be copied into a separate directory, renamed and update `config.toml` to point to the customized theme.
+
+## Build site locally
+
+The [Quick Start](https://gohugo.io/getting-started/quick-start/) steps help with this. Install Hugo. Clone the repo (use test if you want to deploy to staging first).
+Run `git submodule init` and then `git submodule update` to fetch the theme linked via git submodule.
+
+Run `hugo server`. It should provide a link for viewing. Any changes will be reflected automatically on the local build.
