@@ -1,7 +1,7 @@
 # Website Automation
 ## For Workers' Health and Safety Legal Clinic
 
-This repository is used to manage a static website hosted on Github pages.
+This repository is used to manage a static website hosted on Github pages. It is deployed using Github Actions to run `hugo`.
 
 # Archived
 
