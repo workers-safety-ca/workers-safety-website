@@ -1,9 +1,7 @@
 old*.*
 public/
-**/terraform.tfstate*
+.hugo_build.lock
 **/.DS_Store
 **/Gemfile.lock
 **/*.swp
-**/.terraform
 **/*.txt
-infrastructure/terraform/global/graph.png
