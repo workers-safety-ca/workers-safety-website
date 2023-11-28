@@ -1,5 +1,5 @@
 +++
-banner = ""
+
 categories = []
 date = 2016-12-05T20:43:55Z
 tags = []

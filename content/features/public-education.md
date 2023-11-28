@@ -1,5 +1,5 @@
 +++
-banner = ""
+
 categories = []
 date = 2016-09-24T16:16:00Z
 tags = []
@@ -37,6 +37,6 @@ As a worker in Ontario, you have basic health and safety rights. It is against t
 
 ### [Work Safe: Your Health and Safety at Work](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2020+Work+Safe+Guide/Work+Safe+Guide+-+2020.pdf "Work Safe Guide 2020")
 
-### [Guide du travailleur: Loi sur la santé et la sécurité au travail](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2020+Work+Safe+Guide/2020GuideTravailleur-FR.pdf) 
+### [Guide du travailleur: Loi sur la santé et la sécurité au travail](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2020+Work+Safe+Guide/2020GuideTravailleur-FR.pdf)
 
 ***

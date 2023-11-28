@@ -1,9 +1,9 @@
-[![CircleCI](https://circleci.com/gh/workers-safety/workers-safety-website.svg?style=shield&svg)](https://circleci.com/gh/workers-safety/workers-safety-website)
-
 # Website Automation
 ## For Workers' Health and Safety Legal Clinic
 
-This repository is used to manage a static website hosted in AWS S3.
+This repository is used to manage a static website hosted on Github pages.
+
+# Archived
 
 The basic infrastructure needed to deploy the website is generated using Terraform found in ```infrastructure/terraform/``` and is tested using rspec. This part is done manually.
 
@@ -13,14 +13,14 @@ The website section in this repository can be further managed using [forestry.io
 
 The tools used are: terraform, rspec, docker, gohugo and amazon cli.
 
-# Instructions to manage this repository manually
+## Instructions to manage this repository manually
 
-## Infrastructure
+### Infrastructure
 
 Terraform is used to create the necessary resources in AWS: user for CircleCI, production and stage S3 buckets, a bucket for the Newsletters, Route53 zone and records.
 A separate terraform plan is use to create a S3 bucket with version control to store the terraform state.
 
-### Remote configuration state for terraform.
+#### Remote configuration state for terraform.
 
 Make sure you have AWS configured with a file ```~/.aws/credentials```:
 ```
@@ -38,7 +38,7 @@ Then go to the directory ```infrastructure/terraform/global/``` and modify ```te
 . ./tfstate_remote_global.sh
 ```
 
-### Deploying infrastructure with terraform:
+#### Deploying infrastructure with terraform:
 
 Now you can change the ```.tf``` and ```.tfvars```, plan and apply changes:
 ```
@@ -46,15 +46,15 @@ terraform plan
 terraform apply
 ```
 
-## Building docker gohugo image
-### This repository builds and deploys automatically using CircleCI.
+### Building docker gohugo image
+#### This repository builds and deploys automatically using CircleCI.
 
 To build image, run following command in the ```docker-hugo-site``` directory.
 ```
 docker build -t clamorisse/hugo:0.15 .
 ```
 
-## Website: development and publishing
+### Website: development and publishing
 
 To work with the site content, get to the repository root directory.
 
@@ -71,4 +71,3 @@ aws s3 rm s3://workers-safety.ca/ --recursive
 aws s3 sync public/ s3://bucket-name/
 aws s3 sync newsletter-list/publico/ s3://newsletter-bucket-name
 ```
-
