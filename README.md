@@ -1,73 +1,48 @@
-# Website Automation
-## For Workers' Health and Safety Legal Clinic
+# Workers' Health and Safety Legal Clinic website
 
+## Website Automation
 This repository is used to manage a static website hosted on Github pages. It is deployed using Github Actions to run `hugo`.
 
-# Archived
+## Hugo
+The site is built using the static site generator [Hugo](https://gohugo.io/). The main site config is in `config.toml`.
 
-The basic infrastructure needed to deploy the website is generated using Terraform found in ```infrastructure/terraform/``` and is tested using rspec. This part is done manually.
+## This repository builds and deploys automatically using Github Actions.
+The `.github/workflows/hugo.yaml` defines the Github Actions to build and publish the website. Check the configuration for the version of Hugo for building. The site configuration must use variables that are supported by the version of Hugo in that config. The config can be updated to support a [newer version of Hugo](https://github.com/gohugoio/hugo/releases).
 
-The website is generated using a docker cointainer for Hugo that is tested and deployed using CircleCI.
+## Website: development and publishing
 
-The website section in this repository can be further managed using [forestry.io](http://forestry.io) to easily generate content using a markdown editor.
+### Pages
+To work with the site content, get to the repository root directory. Edit a page within the `content/` directory or copy an existing one and save it to a directory within it.
 
-The tools used are: terraform, rspec, docker, gohugo and amazon cli.
+### Data/snippets
+The `data/` directory holds "snippets" that are placed into "lists" within other pages, such as the carousel and features section on the homepage.
 
-## Instructions to manage this repository manually
+### Static files
+Images and files are placed in the `static/` directory. When the site is build these get copied to the site root as-is. So `static/img/` gets copied to `img/`. Images which are necessary for the look and feel of the website should be placed in the repo here.
 
-### Infrastructure
+### Newsletters and archives
+Newsletter and archive files (mostly pdfs, some images) are stored in AWS S3. After they are uploaded to AWS S3 in the newsletter.workers-safety.ca bucket, the URL is copied (like `https://s3.amazonaws.com/newsletter.workers-safety.ca/*`) and put into a page in this repo.
 
-Terraform is used to create the necessary resources in AWS: user for CircleCI, production and stage S3 buckets, a bucket for the Newsletters, Route53 zone and records.
-A separate terraform plan is use to create a S3 bucket with version control to store the terraform state.
+The repo contains a copy of a small script which is hosted on the AWS S3 bucket to create a GUI for navigating the archive list. It's clunky but it works. There's no easy way to get https on a whole S3 bucket, just the individual objects.
 
-#### Remote configuration state for terraform.
+### Publishing
+Whenever any file is saved in this repo, the site will get regenerated and published. There is an "Actions" tab on the repo where you can view the progress of the rebuild. It should typically take less than two minutes.
 
-Make sure you have AWS configured with a file ```~/.aws/credentials```:
-```
-[name-of-profile]
-aws_access_key_id = xxxxxxxx
-aws_secret_access_key = xxxxxxxx
-```
-To create bucket for terrafrom remote state go to ```infrastructure/terraform/tfstate-bucket/``` and run
-```
-terraform plan
-terraform apply
-```
-Then go to the directory ```infrastructure/terraform/global/``` and modify ```terraform.tfvars``` files to have the name of the AWS profile you want to use. Then run the script to configure the remote state:
-```
-. ./tfstate_remote_global.sh
-```
+## Staging website
+If there are any changes which you'd like to view before publishing, you can make them on the [fork](https://github.com/workers-safety-ca/workers-safety-test). After making the change there it can be viewed on [the staging site](https://staging.workers-safety.ca/). The staging site is public (it costs money to get the option to publish them privately). But after the changes have been reviewed, you can unpublish the staging site by going to the [settings](https://github.com/workers-safety-ca/workers-safety-test/settings/pages), clicking the three dots next to the "Your site is live at ..." and click Unpublish site. It will be rebuild the next time a change is made.
 
-#### Deploying infrastructure with terraform:
+### Getting changes from staging to live
+This workflow involves going to the [staging repo](https://github.com/workers-safety-ca/workers-safety-test/settings/pages).
 
-Now you can change the ```.tf``` and ```.tfvars```, plan and apply changes:
-```
-terraform plan
-terraform apply
-```
+1. Click "Sync fork" to make sure the fork has all the changes from the main repo. Click "Update branch" if there are, otherwise you're golden.
+2. Click "Contribute".
+3. This brings you to a "Comparing changes" form. If you've got a green "Able to merge" it's ready. Click on option to "Create pull request".
+4. Add a title if there is none - a short description of the change. Description can be blank unless you want to add more detail.
+5. Click "Create pull request" at the bottom of the form.
+6. Once the pull request is created it will show the differences between the staging repo and the main one. You can review it (or have a developer review it if needed).
+7. If it all looks good you can select "Squash and merge" option under the green button "Merge pull request". Make it so!
+8. Once it's merged it will automatically start rebuilding and publishing the changes.
 
-### Building docker gohugo image
-#### This repository builds and deploys automatically using CircleCI.
+## Theme
 
-To build image, run following command in the ```docker-hugo-site``` directory.
-```
-docker build -t clamorisse/hugo:0.15 .
-```
-
-### Website: development and publishing
-
-To work with the site content, get to the repository root directory.
-
-For development, run docker with these options:
-```
-docker run -d -p 1313:1313 --name hugotest -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http//localhost/ --watch --bind=0.0.0.0
-```
-
-To publish changes manually run this commands:
-```
-docker run -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo --baseUrl=http://baseUrl/
-docker run -d -p 1313:1313 --name hugoprod -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://baseUrl/ --appendPort=false --bind=0.0.0.0
-aws s3 rm s3://workers-safety.ca/ --recursive
-aws s3 sync public/ s3://bucket-name/
-aws s3 sync newsletter-list/publico/ s3://newsletter-bucket-name
-```
+The theme is hugo-universal which is linked via a git submodule. It is currently not customized, but in order to do so the whole theme should be copied into a separate directory, renamed and update `config.toml` to point to the customized theme. 
