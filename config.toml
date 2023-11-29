@@ -117,6 +117,7 @@ pluralizelisttitles = false
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
+    # Instead of saving the api key in a config file it is saved in a Github secret and inserted in a Github Action.
     enableGoogleMaps = true
     googleMapsApiKey = "GOOGLE_MAPS_API_KEY"
 

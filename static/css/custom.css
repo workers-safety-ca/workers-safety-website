@@ -1,0 +1,24 @@
+/**
+ * @file
+ * Custom css
+ * Overrides hugo-universal-theme custom.css
+ */
+
+
+.navbar-brand img.visible-sm {
+  max-width: 100%;
+}
+
+.box-image-text .image {
+  min-height: 190px;
+  max-height: 190px;
+}
+
+.box-image-text .image img {
+  max-height: 190px;
+  margin: auto;
+}
+
+.box-simple {
+  min-height: 230px;
+}
