@@ -17,7 +17,7 @@ _The Workers’ Health and Safety Legal Clinic provides free legal services to n
 
 Telephone: 416-971-8832 (Local) or 1-877-832-6090 (Toll free)
 Fax: 416-971-8834
-[Email: work@work.clcj.ca](mailto:work@work.clcj,ca)
+[Email: work@work.clcj.ca](mailto:work@work.clcj.ca)
 
 Follow us on [Facebook](https://www.facebook.com/TWHSLC/) and [Twitter](https://twitter.com/TWHSLC).
 
