@@ -10,7 +10,7 @@ The Workers' Health and Safety Legal Clinic's newsletters feature commentary on 
 
 Scroll down to access the Clinic's newsletters dating back to 2010.
 
-Please note: Newsletters are available in English only.
+**Please note: Newsletters are available in English only.**
 
 ***
 
@@ -18,7 +18,7 @@ Les bulletins d’information de la Workers’ Health and Safety Legal Clinic co
 
 Faites défiler vers le bas pour accéder aux bulletins d’information de la clinique depuis 2010. 
 
-Veuillez noter : Les bulletins d’information sont disponibles en anglais uniquement.
+**Veuillez noter : Les bulletins d’information sont disponibles en anglais uniquement.**
 
 ***
 
