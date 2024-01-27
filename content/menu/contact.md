@@ -24,17 +24,24 @@ _La Workers’ Health and Safety Legal Clinic offre des services juridiques grat
 
 #### N’hésitez pas à communiquer avec nous par téléphone ou par courrier électronique pour obtenir des renseignements, bénéficier de nos services, devenir [membre](/menu/member/), vous joindre au [conseil d’administration](/menu/aboutus/board-of-directors/) ou vous renseigner sur les possibilités de bénévolat.
 
-- Telephone / Téléphone : **416-971-8832** (local) or/ou **1-877-832-6090** (Toll free / sans frais)
+***
 
-- Fax: / Télécopieur : 416-971-8834
+Telephone / Téléphone : **416-971-8832** (local) or/ou **1-877-832-6090** (Toll free / sans frais)
 
-- Email / Courriel : [**work@work.clcj.ca**](mailto:work@work.clcj.ca)
+Fax: / Télécopieur : 416-971-8834
 
-- Follow us on [**Facebook**](https://www.facebook.com/TWHSLC/) and [**Twitter**](https://twitter.com/TWHSLC).
+Email / Courriel : [**work@work.clcj.ca**](mailto:work@work.clcj.ca)
+
+Follow us on / Suivez-nous sur [**Facebook**](https://www.facebook.com/TWHSLC/) and / et [**Twitter**](https://twitter.com/TWHSLC).
 
 ***
 
-**IMPORTANT – Please note:** The internet is not private. Sending an email to us will not make us your lawyers and does not mean we are assisting you, advising you, or providing you with representation in regards to your legal matter. You will not be considered a client of the Clinic until we have agreed to advise or represent for you in accordance with our policies for accepting clients. Unless you are a current client of WHSLC, please do not include any confidential information in your email, because no information you send to us can be held in confidence.
+**IMPORTANT – Please note:**
 
----
-**IMPORTANT – Veuillez noter :** l’Internet n’est pas privé. Le fait de nous envoyer un courriel ne fait pas de nous vos avocats et ne signifie pas que nous vous assisterons, vous conseillerons ou vous représenterons dans le cadre de votre affaire juridique. Vous ne serez pas considéré comme un client de la clinique tant que nous n’aurons pas accepté de vous conseiller ou de vous représenter conformément à notre politique d’acceptation des clients. À moins que vous ne soyez un client actuel de la WHSLC, veuillez ne pas inclure de renseignements confidentiels dans votre courriel, car aucun renseignement que vous nous envoyez ne peut être tenu confidentiel.
+The internet is not private. Sending an email to us will not make us your lawyers and does not mean we are assisting you, advising you, or providing you with representation in regards to your legal matter. You will not be considered a client of the Clinic until we have agreed to advise or represent for you in accordance with our policies for accepting clients. Unless you are a current client of WHSLC, please do not include any confidential information in your email, because no information you send to us can be held in confidence.
+
+
+
+**IMPORTANT – Veuillez noter :**
+
+l’Internet n’est pas privé. Le fait de nous envoyer un courriel ne fait pas de nous vos avocats et ne signifie pas que nous vous assisterons, vous conseillerons ou vous représenterons dans le cadre de votre affaire juridique. Vous ne serez pas considéré comme un client de la clinique tant que nous n’aurons pas accepté de vous conseiller ou de vous représenter conformément à notre politique d’acceptation des clients. À moins que vous ne soyez un client actuel de la WHSLC, veuillez ne pas inclure de renseignements confidentiels dans votre courriel, car aucun renseignement que vous nous envoyez ne peut être tenu confidentiel.
