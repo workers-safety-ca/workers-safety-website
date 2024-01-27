@@ -24,7 +24,8 @@ _La Workers’ Health and Safety Legal Clinic offre des services juridiques grat
 
 #### N’hésitez pas à communiquer avec nous par téléphone ou par courrier électronique pour obtenir des renseignements, bénéficier de nos services, devenir [membre](/menu/member/), vous joindre au [conseil d’administration](/menu/aboutus/board-of-directors/) ou vous renseigner sur les possibilités de bénévolat.
 
-***
+
+---
 
 Telephone / Téléphone : **416-971-8832** (local) or/ou **1-877-832-6090** (Toll free / sans frais)
 
