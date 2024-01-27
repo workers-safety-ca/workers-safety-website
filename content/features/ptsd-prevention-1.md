@@ -36,13 +36,15 @@ Nous voulons que le ministère du Travail fasse en sorte que les lieux de travai
 Le trouble de stress post-traumatique peut être traité par une détection précoce, une intervention obligatoire et un traitement adapté. Sortons les travailleurs de l’obscurité et aidons-les à accéder au soutien dont ils ont besoin. Vous pouvez soutenir notre action en téléchargeant la pétition et le dépliant sur la prévention du trouble de stress post-traumatique ci-dessous. Les pétitions remplies peuvent être renvoyées à la Workers’ Health and Safety Legal Clinic.
 
 ***
-To access the PTSD Prevention Petition / Pour accéder à la pétition sur la prévention du trouble de stress post-traumatique --- [**Click here / Cliquez ici**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/PTSD+Prevention/PTSD+Prevention+Petition.pdf "PTSD Prevention Petition") 
+To access the PTSD Prevention Petition / 
+Pour accéder à la pétition sur la prévention du trouble de stress post-traumatique --- [**Click here / Cliquez ici**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/PTSD+Prevention/PTSD+Prevention+Petition.pdf "PTSD Prevention Petition") 
 
-To access the PTSD PTSD Prevention Flyer / Pour accéder au dépliant sur la prévention du trouble de stress post-traumatique --- [**Click here / Cliquez ici**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/PTSD+Prevention/PTSD+Prevention+Flyer.pdf "PTSD Prevention Flyer") 
+To access the PTSD PTSD Prevention Flyer / 
+Pour accéder au dépliant sur la prévention du trouble de stress post-traumatique --- [**Click here / Cliquez ici**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/PTSD+Prevention/PTSD+Prevention+Flyer.pdf "PTSD Prevention Flyer") 
 
 ***
 
-## **Mental Health Resources & Supports / Ressources et soutiens en santé mentale**
+### **Mental Health Resources & Supports / Ressources et soutiens en santé mentale**
 
 #### **BounceBack Program (CMHA)** - [https://bouncebackontario.ca/](https://bouncebackontario.ca/ "https://bouncebackontario.ca/")
 
