@@ -14,7 +14,7 @@ Board members must be WHSLC [members](/menu/member/) and must sign our Confident
 
 If you are interested in our Board of Directors, please [contact us](/menu/contact/).
 
-**
+***
 
 La Workers' Health and Safety Legal Clinic (WHSLC) est dirigée par un conseil d’administration bénévole élu par nos membres. Les membres de notre conseil d’administration viennent d’horizons divers et ont un intérêt commun pour les questions liées à l’emploi et à la santé et sécurité du point de vue du travailleur. Actuellement, de nombreux membres de notre conseil d’administration ont été confrontés à des problèmes de santé et sécurité au travail ou ont été blessés sur leur lieu de travail.
 
