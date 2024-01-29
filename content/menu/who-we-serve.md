@@ -35,7 +35,7 @@ Nos services s’adressent aux travailleurs à faibles revenus qui ne jouissent 
 #### **IMPORTANT:** If you are unsure whether we can help you, please [contact us](/menu/contact/) for more information. 
 * **Please note:** You may be asked some questions to assess if you are eligible for assistance. If we are unable to help you, we will provide you with information for other organizations, legal aid clinics or services that may be able to assist you.
 
-#### **IMPORTANT :** Si vous n’êtes pas sûr que nous puissions vous aider, veuillez communiquer avec nous pour de plus amples renseignements. 
+#### **IMPORTANT :** Si vous n’êtes pas sûr que nous puissions vous aider, veuillez [communiquer avec nous](/menu/contact/) pour de plus amples renseignements. 
 * **Veuillez noter :** Il se peut que l’on vous pose des questions pour déterminer votre admissibilité à une aide. Si nous ne sommes pas en mesure de vous aider, nous vous fournirons des renseignements sur d’autres organismes, cliniques d’aide juridique ou services susceptibles de vous aider.
 
 * * *
