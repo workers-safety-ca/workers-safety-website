@@ -12,7 +12,7 @@ We also represent workers in federally regulated workplaces that have been punis
 
 **
 
-Nous représentons des travailleurs qui ont été employés sur des lieux de travail soumis à la réglementation fédérale (tels que les banques, les télécommunications, les transports interprovinciaux) et qui ont été congédiés d’une manière non conforme au Code canadien du travail (CCT). Le CCT contient des dispositions relatives aux congédiements injustes qui s’appliquent aux travailleurs non cadres employés depuis 12 mois (1 an) ou plus et qui sont congédiés sans motif valable. 
+Nous représentons des travailleurs qui ont été employés sur des lieux de travail soumis à la réglementation fédérale (tels que les banques, les télécommunications, les transports interprovinciaux) et qui ont été congédiés d’une manière non conforme au _Code canadien du travail_ (CCT). Le CCT contient des dispositions relatives aux congédiements injustes qui s’appliquent aux travailleurs non cadres employés depuis 12 mois (1 an) ou plus et qui sont congédiés sans motif valable. 
 
 Nous représentons également des travailleurs sur des lieux de travail sous réglementation fédérale qui ont été sanctionnés ou congédiés pour avoir soulevé une question ou un problème de santé et sécurité au travail.
 
