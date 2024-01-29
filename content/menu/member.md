@@ -4,7 +4,7 @@ title = "Membership / Adhésion"
 type = "page"
 
 +++
-# Become a Member! / Devenez membre!
+## Become a Member! / Devenez membre!
 
 _La version en français suit le texte en anglais._
 
@@ -27,7 +27,7 @@ _On a broader scale, we work independently and with other like-minded groups, ag
 
 * * *
 
-# Devenez membre!
+## Devenez membre!
 
 La WHSLC est soutenue par des membres très diversifiés. Notre objectif principal consiste à fournir des services juridiques gratuits aux travailleurs non syndiqués qui rencontrent des problèmes d’emploi et/ou des problèmes juridiques liés à la santé et sécurité en Ontario. Pour nous aider à garantir la pertinence de nos services, nous avons besoin de la participation des personnes qui subissent des injustices sur le lieu de travail en Ontario, ainsi que de celles qui s’occupent des travailleurs vulnérables victimes de pratiques déloyales sur le lieu de travail.
 
