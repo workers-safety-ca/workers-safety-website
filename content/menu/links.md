@@ -2,13 +2,18 @@
 categories = []
 date = 2016-09-24T16:16:00Z
 tags = []
-title = "Links"
+title = "Links / Liens"
 type = "page"
 
 +++
 In this section, you will find information on a variety of issues that relate to workers' employment standards and health and safety rights. Scroll down and click on the highlighted text to access the links.
 
+**
+
+Dans cette section, vous trouverez des renseignements sur différentes questions relatives aux normes d’emploi des travailleurs et à leurs droits en matière de santé et sécurité. Faites défiler vers le bas et cliquez sur le texte en surbrillance pour accéder aux liens.
+
 ***
+(En anglais seulement)
 
 ### LEGAL ASSISTANCE RESOURCES
 
@@ -28,7 +33,7 @@ In this section, you will find information on a variety of issues that relate to
 
 [**Office of the Worker Adviser (OWA)**](http://www.owa.gov.on.ca) – assists non-unionized workers, who do not meet Legal Aid Ontario’s financial eligibility criteria but can not afford legal representation. OWA is a free agency of the Ministry of Labour, and assists with WSIB appeals.
 
-* <span style="line-height: 2rem; letter-spacing: 0.01em;">Workplace insurance issues: Toll free 1-800-435-8980</span>
+* Workplace insurance issues: Toll free 1-800-435-8980</span>
 
 [**Community Legal Education Ontario (CLEO)**](http://www.cleo.on.ca/en) – produces clear and practical legal information to help people understand and exercise their legal rights in such legal areas as family, criminal, consumer, domestic abuse, employment, disability, housing, immigration, social assistance and pensions.
 
@@ -82,7 +87,7 @@ In this section, you will find information on a variety of issues that relate to
 
 [**Workers Action Centre (WAC)**](http://www.workersactioncentre.org/) – is a worker-based organization committed to improving the lives and working conditions of people in low wage and unstable employment.
 
-* [15 and Fairness Movement](http://15andfairness.org/) – join the fight for decent work! As Ontario workers are struggling to get by, more and more decent jobs are being replaced by low-wage and precarious work.
+* [Justice for Workers Movement](https://www.justice4workers.org/)) – join the fight for decent work! As Ontario workers are struggling to get by, more and more decent jobs are being replaced by low-wage and precarious work.
 
 [**Occupational Health Clinics for Ontario Workers (OHCOW)**](http://www.ohcow.on.ca/) – seeks to protect workers and their communities from occupational disease, injuries and illnesses, and to promote the social, mental and physical well-being of workers and their families.
 
