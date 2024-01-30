@@ -19,9 +19,9 @@ La réforme du droit est une composante importante des activités de la WHSLC. N
 
 ***
 
-En anglais seulement.
+(En anglais seulement)
 
-**Some of the Clinic's most recent law reform activities include:**
+#### Some of the Clinic's law reform activities include:
 
 [May 6, 2020 - Letter to the Ministry of Labour to Address Essential Workers' COVID-19 Health and Safety Concerns](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/COVID-19/WHSLC_COVID-19+Ministry+of+Labour+Letter+05+04+20.pdf)
 
