@@ -8,7 +8,7 @@ type = "page"
 +++
 In this section, you will find information on a variety of issues that relate to workers' employment standards and health and safety rights. Scroll down and click on the highlighted text to access the links.
 
-**
+--
 
 Dans cette section, vous trouverez des renseignements sur différentes questions relatives aux normes d’emploi des travailleurs et à leurs droits en matière de santé et sécurité. Faites défiler vers le bas et cliquez sur le texte en surbrillance pour accéder aux liens.
 
