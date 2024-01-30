@@ -11,12 +11,12 @@ _La version en français suit le texte en anglais._
 --
 
 Our services are available, free of charge, to low-income non-unionized workers who need assistance with legal matters that fall within the Clinic’s area of practice. For more information on our areas of practice, visit the [**Legal Services**](/features/legal-services/) section on our website. We use Legal Aid Ontario’s financial eligibility criteria to determine if you are eligible for services from our Clinic. This eligibility is based on household size and income.
-
+  
 
 #### Province of Ontario
 
 Our Clinic’s service area extends across the province of Ontario. This means that in order to receive our legal services, you must have been working in Ontario at the time the health and safety or employment-related legal issue began.
-
+  
 
 #### Non-Unionized Workers
 
