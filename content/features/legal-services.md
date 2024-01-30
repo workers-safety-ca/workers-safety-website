@@ -33,11 +33,23 @@ Nous accordons une grande importance à la protection de votre vie privée. La W
 #### Our areas of practice include: / Nos domaines de pratique comprennent :
 
 * [**Unlawful Dismissals / Congédiements illégaux**](/features/services/unlawful-dismissals/)
+
+
   * [**Health and Safety Reprisals / Représailles en matière de santé et sécurité**](/features/services/dismissals/hsreprisals/)
+
+
   * [**Employment Standards: Reprisals and Termination Pay/Severance Pay Claims / Normes d'emploi : Représailles et Réclamations relatives aux indemnités de départ**](/features/services/dismissals/employment-standards/)
+
+
   * [**Human Rights Applications / Requêtes pour infraction aux droits de la personne**](/features/services/dismissals/human-rights/)
+
+
   * [**Canada Labour Code: Unjust Dismissals and Reprisals / Code canadien du travail : Congédiements injustes**](/features/services/dismissals/canada-labor-code/)
+
+
   * [**Small Claims Court: Wrongful Dismissal and Constructive Dismissal Lawsuits / Cour des petites créances : Poursuites pour congédiement injustifié et congédiement déguisé**](/features/services/dismissals/small-claims/)
+
+
 * [**Workplace Safety and Insurance Board (WSIB) / Commission de la sécurité professionnelle et de l'assurance contre les accidents du travail (CSPAAT)**](/features/services/workplace-safety/)
 
 ***
