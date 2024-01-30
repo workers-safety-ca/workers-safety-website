@@ -163,7 +163,8 @@ pluralizelisttitles = false
 
     about_us = """<p>Advocating for workers' rights
         <br>Défendre les droits des travailleurs
-        </p>"
+        </p>
+        """
     copyright = "Copyright (c) 2023, WHSLC; all rights reserved."
 
     # Format dates with Go's time formatting
