@@ -21,7 +21,7 @@ Our services are available, free of charge, to low-income non-unionized workers 
 
 * **IMPORTANT: If you are unsure whether we can help you, please [contact us](/menu/contact/) for more information.** Please note: You may be asked some questions to assess if you are eligible for assistance. If we are unable to help you, we will provide you with information for other organizations, legal aid clinics or services that may be able to assist you.
 
----<br><br> 
+--- <br><br> 
 
 ## Admissibilité financière
 
