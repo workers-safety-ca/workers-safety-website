@@ -10,7 +10,9 @@ type = "page"
 
 _La version en français suit le texte en anglais._
 
+
 --
+
 
 **The rate of workplace fatalities and critical injuries in Ontario workplaces have worsened in recent years.**
 
