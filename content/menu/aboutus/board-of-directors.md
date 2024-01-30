@@ -14,7 +14,7 @@ Being a volunteer Board member is an opportunity to network, to meet others who 
 
 Board members must be WHSLC [**members**](/menu/member/) and must sign our Confidentiality Statement. Board members are elected for two-year terms and also participate on Board committees.
 
-If you are interested in our Board of Directors, please [**contact us**](/menu/contact/).
+* If you are interested in our Board of Directors, please [**contact us**](/menu/contact/).
 
 ***
 
@@ -24,7 +24,7 @@ La Workers' Health and Safety Legal Clinic (WHSLC) est dirigée par un conseil d
 
 Les membres du conseil d’administration doivent être [**membres**](/menu/member/) de la WHSLC et doivent signer notre déclaration de confidentialité. Les membres du conseil d’administration sont élus pour un mandat de deux ans et participent également aux comités du conseil d’administration.
 
-Si vous souhaitez faire partie de notre conseil d’administration, veuillez [**communiquez avec nous**](/menu/contact/).
+* Si vous souhaitez faire partie de notre conseil d’administration, veuillez [**communiquez avec nous**](/menu/contact/).
 
 ---
 
