@@ -164,10 +164,10 @@ pluralizelisttitles = false
     about_us = """<p>Advocating for workers' rights
         <br>Défendre les droits des 
         <br>---
-        <br>Monday - Friday
-        <br>9am - 5pm
+        <br>MONDAY TO FRIDAY
+        <br>9AM TO 5PM
         <br>
-        <br>Du lundi au vendredi
+        <br>DU LUNDI AU VENDREDI
         <br>9 h à 17 h
         </p>
         """
@@ -185,12 +185,11 @@ pluralizelisttitles = false
     logo_small = "img/logo-small.png"
     contact_url = "/menu/contact"
     address = """<p class="text-uppercase"><strong>Workers' Health and Safety Legal Clinic</strong>
-        <br>Monday - Friday
-        <br>9am - 5pm
-        <br>
-        <br>180 Dundas St. West
-        <br>Suite 2000, Box 4
-        <br>Toronto, ON
+        <br>---
+        <br>180 Dundas St. West / 180 rue Dundas ouest
+        <br>Suite 2000
+        <br>Box 4 / Case postale 4
+        <br>Toronto (Ontario)
         <br>M5G 1Z8
         <br>
         <strong>Canada</strong>
@@ -260,7 +259,7 @@ pluralizelisttitles = false
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
@@ -268,7 +267,7 @@ pluralizelisttitles = false
     subtitle = "We are here to help."
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "Communications"
     subtitle = "Here you will find our latest newsletters, public activities and more."
     hide_summary = false
