@@ -15,7 +15,8 @@ The Workers’ Health and Safety Legal Clinic (WHSLC) is a community legal aid c
 Our lawyers provide free information, legal advice, referrals and representation to low-income workers who face health and safety problems at work and/or other violations of their rights. We act for workers to promote health and safety in the workplace, and in particular, for those who are unlawfully punished or terminated for raising health and safety concerns and/or employment related concerns.
 
 We are funded by Legal Aid Ontario (LAO) and are a specialty legal clinic within LAO's system of community legal clinics and specialty legal clinics.
-<p><br>
+
+<p><br><p>
 
 ---
 
