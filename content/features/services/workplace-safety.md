@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Workplace Safety and Insurance Board"
+title = "Workplace Safety and Insurance Board / Commission de la sécurité professionnelle et de l'assurance contre les accidents du travail (CSPAAT)"
 type = "page"
 
 +++
@@ -22,4 +22,4 @@ Long term exposures at the workplace can result in occupational diseases. Someti
 
 * * *
 
-##### [Go back](/features/legal-services/)
+##### [Go back / Retourner](/features/legal-services/)
