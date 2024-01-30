@@ -30,25 +30,25 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name = "Legal Services"
+    name = "Legal Services / Services juridiques"
     identifier = "menu.features.legal-services"
     url  = "/features/legal-services/"
     weight = 2
 
 [[menu.main]]
-    name = "Who we serve"
+    name = "Who we serve / Qui servons-nous"
     identifier = "menu.who-we-serve"
     url  = "/menu/who-we-serve/"
     weight = 3
 
 [[menu.main]]
-    name = "Law reform"
+    name = "Law reform / Réforme du droit"
     identifier = "menu.features.law-reform"
     url  = "/features/law-reform/"
     weight = 4
 
 [[menu.main]]
-    name = "Links"
+    name = "Links / Liens"
     identifier = "menu.links"
     url  = "/menu/links/"
     weight = 5
@@ -60,20 +60,20 @@ pluralizelisttitles = false
     weight = 6
 
 [[menu.main]]
-    name = "Membership"
+    name = "Membership / Adhésion"
     identifier = "menu.member"
     url  = "/menu/member/"
     weight = 7
 
 [[menu.main]]
-    name = "About Us"
+    name = "About Us / À propos de nous"
     identifier = "menu.about-us"
     url  = "/menu/about-us/"
     weight = 8
 
 [[menu.main]]
     identifier = "contact"
-    name       = "Contact"
+    name       = "Contact Us / Communiquez avec nous"
     url        = "/menu/contact/"
     weight     = 7
 
@@ -82,7 +82,7 @@ pluralizelisttitles = false
 
 [[menu.topbar]]
     weight = 1
-    name = "Phone"
+    name = "Phone / Téléphone"
     url = "tel:1-800-668-8258"
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
@@ -100,7 +100,7 @@ pluralizelisttitles = false
 
 [[menu.topbar]]
     weight = 5
-    name = "Email"
+    name = "Email / Courriel"
     url = "mailto:work@work.clcj.ca"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
@@ -162,7 +162,13 @@ pluralizelisttitles = false
     googleRecaptchaKey = "6Ldr-vQZAAAAANkqk5sABD9TjKyNwwhYbCcS0c5I"
 
     about_us = """<p>Advocating for workers' rights
-        <br>Défendre les droits des travailleurs
+        <br>Défendre les droits des 
+        <br>---
+        <br>Monday - Friday
+        <br>9am - 5pm
+        <br>
+        <br>Du lundi au vendredi
+        <br>9 h à 17 h
         </p>
         """
     copyright = "Copyright (c) 2023, WHSLC; all rights reserved."
