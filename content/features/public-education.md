@@ -7,10 +7,12 @@ title = "Outreach / Sensibilisation"
 type = "page"
 
 +++
+
 # Public Legal Education / Éducation juridique du public
 
 _La version en français suit le texte en anglais._
 
+--
 
 The Workers' Health and Safety Legal Clinic (WHSLC) has developed a strong focus on public legal education by way of oral presentations and workshops to community agencies, schools, job connection programs, apprenticeship programs and employment readiness programs such as Enhanced Language Training.
 
@@ -20,9 +22,11 @@ These workshops provide the public with legal information regarding employment s
 
 * **COVID-19 NOTICE:** The Workers' Health and Safety Legal Clinic's services are available by phone and email. We are continuing our Public Legal Education workshops via online platforms and in-person.
 
-If you are interested in booking a workshop, please [contact us](/menu/contact/).
+If you are interested in booking a workshop, please [**contact us**](/menu/contact/).
 
-### <ins>**Know Your Rights! Protect your health and safety!**<ins>
+--
+
+### Know Your Rights! Protect your health and safety!
 
 As a worker in Ontario, you have basic health and safety rights. It is against the law for your boss to fire you or punish you (or threaten to fire or punish you) for using your health and safety rights.
 
@@ -40,9 +44,11 @@ Ces ateliers fournissent au public des renseignements juridiques concernant les 
 
   * **AVIS RELATIF À LA COVID-19 :** Vous pouvez accéder aux services de la Workers' Health & Safety Legal Clinic (Clinique juridique de santé et sécurité des travailleurs) par téléphone et par courrier électronique. Nous poursuivons nos ateliers d’éducation juridique du public par le biais des plateformes en ligne et en personne.
 
-Si vous souhaitez réserver la tenue d’un atelier, veuillez [communiquer avec nous](/menu/contact/).
+Si vous souhaitez réserver la tenue d’un atelier, veuillez [**communiquez avec nous**](/menu/contact/).
 
-### <ins>Connaissez vos droits! Protégez votre santé et sécurité!<ins>
+--
+
+### Connaissez vos droits! Protégez votre santé et sécurité!
 
 En tant que travailleur en Ontario, vous avez des droits fondamentaux en matière de santé et sécurité. La loi interdit à votre patron de vous congédier ou de vous punir (ou de menacer de vous congédier ou de vous punir) pour avoir exercé vos droits en matière de santé et sécurité.
 
