@@ -5,19 +5,23 @@ tags = []
 title = "Newsletters / Bulletins d'information"
 
 +++
+
 The Workers' Health and Safety Legal Clinic's newsletters feature commentary on case law and legislative reform, highlight ongoing clinic activities, special projects as well as recent workplace health and safety news.
 
 Scroll down to access the Clinic's newsletters dating back to 2010.
 
 **Please note: Newsletters are available in English only.**
 
+
 ***
+
 
 Les bulletins d’information de la Workers’ Health and Safety Legal Clinic contiennent des commentaires sur la jurisprudence et les réformes législatives, soulignent les activités en cours de la clinique, les projets spéciaux ainsi que les dernières nouvelles en matière de santé et sécurité au travail.
 
 Faites défiler vers le bas pour accéder aux bulletins d’information de la clinique depuis 2010. 
 
 **Veuillez noter : Les bulletins d’information sont disponibles en anglais uniquement.**
+
 
 ***
 
