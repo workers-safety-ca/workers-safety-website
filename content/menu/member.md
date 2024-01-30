@@ -35,7 +35,7 @@ Veuillez envisager de devenir membre et de faire entendre votre voix dans la lut
 
 Pour devenir membre, vous devez être un résident de l’Ontario âgé de 18 ans ou plus, et vous devez accepter notre **énoncé de mission** décrit ci-dessous. L’adhésion prend effet dès que notre conseil d’administration approuve la demande. La clinique se réserve le droit de refuser l’adhésion.
 
-Vous pouvez vous inscrire en ligne pour devenir membre de la clinique en remplissant et en envoyant [**le formulaire de demande d’adhésion**](https://goo.gl/forms/VtmDGDKXLnLXCV1S2) suivant.
+Vous pouvez vous inscrire en ligne pour devenir membre de la clinique en remplissant et en envoyant le [**formulaire de demande d’adhésion**](https://goo.gl/forms/VtmDGDKXLnLXCV1S2) suivant.
 
 --
 
