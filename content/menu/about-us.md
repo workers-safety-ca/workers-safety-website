@@ -26,7 +26,7 @@ Nous sommes financés par Aide juridique Ontario (AJO) et sommes une clinique ju
 
 * * *
 
-#### Learn more about the Clinic and its history: / Apprenez-en davantage sur la Clinique et son histoire :**
+#### Learn more about the Clinic and its history: / Apprenez-en davantage sur la Clinique et son histoire :
 
 *   [**Staff / Personnel**](/menu/aboutus/staff/)
 
