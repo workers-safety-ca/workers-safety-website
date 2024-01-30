@@ -161,7 +161,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "6Ldr-vQZAAAAANkqk5sABD9TjKyNwwhYbCcS0c5I"
 
-    about_us = <p><strong>Advocating for workers' rights / Défendre les droits des travailleurs<strong>
+    about_us = """<p<strong>Advocating for workers' rights / Défendre les droits des travailleurs<strong>
         <br>
         <br>Monday - Friday
         <br>9am - 5pm
