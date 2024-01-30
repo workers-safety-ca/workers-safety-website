@@ -161,8 +161,9 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "6Ldr-vQZAAAAANkqk5sABD9TjKyNwwhYbCcS0c5I"
 
-    about_us = "<p>Advocating for workers' rights / 
-        <br>Défendre les droits des travailleurs</p>"
+    about_us = "<p>Advocating for workers' rights
+        <br>Défendre les droits des travailleurs
+        </p>"
     copyright = "Copyright (c) 2023, WHSLC; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -195,7 +196,7 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us toll free 1-800-668-8258.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us toll free / Contactez-nous (sans frais) au 1-800-668-8258.</p>
       <p class="hidden-md hidden-lg"><a href="tel:1-800-668-8258" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:whslc@lao.on.ca" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
