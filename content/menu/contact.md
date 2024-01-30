@@ -19,7 +19,7 @@ The Workers’ Health and Safety Legal Clinic provides free legal services to no
 
 ---
 
-#### N’hésitez pas à communiquer avec nous par téléphone ou par courrier électronique pour obtenir des renseignements, bénéficier de nos services, devenir [**membre**](/menu/member/), vous joindre au [**conseil d’administration**](/menu/aboutus/board-of-directors/) ou vous renseigner sur les possibilités de bénévolat.
+#### N’hésitez pas à communiquer avec nous par téléphone ou par courrier électronique pour obtenir des renseignements, bénéficier de nos services, devenir [**membre**](/menu/member/), vous joindre au [**Conseil d’administration**](/menu/aboutus/board-of-directors/) ou vous renseigner sur les possibilités de bénévolat.
 
 --
 
