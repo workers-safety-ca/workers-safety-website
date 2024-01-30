@@ -7,6 +7,8 @@ type = "page"
 +++
 _La version en français suit le texte en anglais._
 
+--
+
 The Toronto Workers’ Health and Safety Legal Clinic began operations in December 1988. The Clinic was founded by a group of health and safety advocates who originally were part of the Toronto Occupational Health Resource Centre (TOHRC). TOHRC was set up in the 1970s to assist non-unionized workers in dealing with occupational health and safety hazards.
 
 When the _Occupational Health and Safety Act_ came into being in 1978, TOHRC recognized that non-union workers needed legal help to assert their health and safety rights. To fill this gap, TOHRC applied for and was granted funding for the creation of the Toronto Workers’ Health and Safety Legal Clinic.
