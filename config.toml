@@ -161,16 +161,13 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "6Ldr-vQZAAAAANkqk5sABD9TjKyNwwhYbCcS0c5I"
 
-    about_us = "<p>Advocating for workers' rights
-        <br>Défendre les droits des travailleurs
+    about_us = "<p>Advocating for workers' rights / Défendre les droits des travailleurs
         <br>
         <br>Monday - Friday
         <br>9am - 5pm
         <br>
         <br>du lundi au vendredi
-        <br>9 h à 17 h
-        </p>
-        "
+        <br>9 h à 17 h</p>"
     copyright = "Copyright (c) 2023, WHSLC; all rights reserved."
 
     # Format dates with Go's time formatting
