@@ -164,10 +164,10 @@ pluralizelisttitles = false
     about_us = """<p>Advocating for workers' rights
         <br>Défendre les droits des travailleurs 
         <br>---
-        <br><strong>MONDAY - FRIDAY<strong>
+        <br><strong>MONDAY - FRIDAY</strong>
         <br>9AM - 5PM
         <br>
-        <br>DU LUNDI AU VENDREDI
+        <br><strong>DU LUNDI AU VENDREDI</strong>
         <br>9 h à 17 h
         </p>
         """
