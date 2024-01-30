@@ -6,6 +6,7 @@ title = "Links / Liens"
 type = "page"
 
 +++
+
 In this section, you will find information on a variety of issues that relate to workers' employment standards and health and safety rights. Scroll down and click on the highlighted text to access the links.
 
 --
@@ -13,6 +14,7 @@ In this section, you will find information on a variety of issues that relate to
 Dans cette section, vous trouverez des renseignements sur différentes questions relatives aux normes d’emploi des travailleurs et à leurs droits en matière de santé et sécurité. Faites défiler vers le bas et cliquez sur le texte en surbrillance pour accéder aux liens.
 
 ***
+
 (En anglais seulement)
 
 ### LEGAL ASSISTANCE RESOURCES
@@ -69,7 +71,7 @@ Dans cette section, vous trouverez des renseignements sur différentes questions
 
 [**Human Rights Tribunal of Ontario (HRTO)**](http://www.hrto.ca/) – resolves claims of discrimination and harassment brought under Ontario’s [_Human Rights Code_](https://www.ontario.ca/laws/statute/90h19) . Human rights applications are filed and decided at the HRTO using such processes as mediation and hearings.
 
-[**Human Rights Legal Support Centre (HRLSC)**](http://www.hrlsc.on.ca/en/Default.aspx) – offers human rights legal services to individuals throughout Ontario who have experienced discrimination contrary to Ontario's Human Rights Code. Services may include legal assistance in filing applications and legal representation.
+[**Human Rights Legal Support Centre (HRLSC)**](https://hrlsc.on.ca/homepage/) – offers human rights legal services to individuals throughout Ontario who have experienced discrimination contrary to Ontario's Human Rights Code. Services may include legal assistance in filing applications and legal representation.
 
 * Toll free 1-866-625-5179
 
