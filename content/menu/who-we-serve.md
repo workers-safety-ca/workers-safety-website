@@ -12,6 +12,8 @@ _La version en français suit le texte en anglais._
 
 Our services are available, free of charge, to low-income non-unionized workers who need assistance with legal matters that fall within the Clinic’s area of practice. For more information on our areas of practice, visit the [**Legal Services**](/features/legal-services/) section on our website. We use Legal Aid Ontario’s financial eligibility criteria to determine if you are eligible for services from our Clinic. This eligibility is based on household size and income.
 
+  <br><br> 
+
 #### Province of Ontario
 Our Clinic’s service area extends across the province of Ontario. This means that in order to receive our legal services, you must have been working in Ontario at the time the health and safety or employment-related legal issue began.
 
@@ -25,7 +27,7 @@ Our services are intended for low-income workers who do not have union membershi
 
 ## Admissibilité financière
 
-Nos services sont gratuitement mis à la disposition des travailleurs non syndiqués à faible revenu qui ont besoin d’aide pour des questions juridiques relevant du domaine d’activité de la clinique. Pour plus de renseignements sur nos domaines d’activité, consultez la section [**Services juridiques**](/features/legal-services/) de notre site Web. Nous utilisons les critères d’admissibilité financière d’Aide juridique Ontario pour déterminer votre admissibilité aux services de notre clinique. Cette admissibilité se fonde sur la taille du ménage et le revenu.<br><br>  
+Nos services sont gratuitement mis à la disposition des travailleurs non syndiqués à faible revenu qui ont besoin d’aide pour des questions juridiques relevant du domaine d’activité de la clinique. Pour plus de renseignements sur nos domaines d’activité, consultez la section [**Services juridiques**](/features/legal-services/) de notre site Web. Nous utilisons les critères d’admissibilité financière d’Aide juridique Ontario pour déterminer votre admissibilité aux services de notre clinique. Cette admissibilité se fonde sur la taille du ménage et le revenu. 
 
 #### Province de l’Ontario
 La zone de service de notre clinique s’étend sur toute la province de l’Ontario. Ainsi, pour bénéficier de nos services juridiques, vous devez avoir travaillé en Ontario au moment où le problème juridique lié à la santé et sécurité ou à l’emploi a vu le jour.
