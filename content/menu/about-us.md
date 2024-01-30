@@ -14,9 +14,10 @@ The Workers’ Health and Safety Legal Clinic (WHSLC) is a community legal aid c
 
 Our lawyers provide free information, legal advice, referrals and representation to low-income workers who face health and safety problems at work and/or other violations of their rights. We act for workers to promote health and safety in the workplace, and in particular, for those who are unlawfully punished or terminated for raising health and safety concerns and/or employment related concerns.
 
-We are funded by Legal Aid Ontario (LAO) and are a specialty legal clinic within LAO's system of community legal clinics and specialty legal clinics.
+<p>We are funded by Legal Aid Ontario (LAO) and are a specialty legal clinic within LAO's system of community legal clinics and specialty legal clinics.
+<br>
 
-***
+---
 
 La Workers' Health and Safety Legal Clinic (WHSLC) est une clinique d’aide juridique communautaire qui se concentre sur les droits des travailleurs en mettant l’accent sur les questions de santé et sécurité au travail et sur les questions de droit de l’emploi.
 
@@ -24,7 +25,7 @@ Nos avocats fournissent gratuitement des renseignements, des conseils juridiques
 
 Nous sommes financés par Aide juridique Ontario (AJO) et sommes une clinique juridique spécialisée au sein du système de cliniques juridiques communautaires et de cliniques juridiques spécialisées de l’AJO.
 
-* * *
+---
 
 #### Learn more about the Clinic and its history: / Apprenez-en davantage sur la Clinique et son histoire :
 
@@ -34,4 +35,4 @@ Nous sommes financés par Aide juridique Ontario (AJO) et sommes une clinique ju
 
 *   [**Clinic History / Histoire de la clinique**](/menu/aboutus/clinic-history/)
 
-* * *
+---
