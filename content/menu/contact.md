@@ -30,7 +30,7 @@ La Workers’ Health and Safety Legal Clinic offre des services juridiques gratu
 
 **_Open Monday to Friday from 9am to 5pm_ / _Overt du lundi au vendredi de 9 h à 17 h_**
 
-
+--
 #### Telephone / Téléphone : **416-971-8832** (local) or/ou **1-877-832-6090** (Toll free / sans frais)
 
 #### Fax: / Télécopieur :  416-971-8834
