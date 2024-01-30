@@ -43,6 +43,10 @@ La nature du travail a radicalement changé au cours de la dernière décennie. 
 
 Ses activités sont réparties de manière équilibrée entre le traitement des dossiers, la réforme du droit et le développement communautaire/l’éducation publique. Plus récemment, la clinique a augmenté sa capacité à conseiller et à représenter des personnes dans d’autres domaines liés à l’emploi, tels que les congédiements injustifiés.
 
+---
+
+##### [Go back / Retourner](/menu/about-us/)
+
 
 
 
