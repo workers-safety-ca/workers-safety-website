@@ -10,7 +10,7 @@ We file lawsuits against employers and represent workers who are wrongfully dism
 
 Additionally, if there is a fundamental change to working conditions that leave a worker with no option but to quit, we can represent workers in a lawsuit against the employer based on constructive dismissal.
 
-**
+--
 
 Nous intentons des procès contre les employeurs et représentons les travailleurs qui ont été congédiés abusivement ou qui ont été mis à pied sans préavis ni indemnité de préavis.
 
