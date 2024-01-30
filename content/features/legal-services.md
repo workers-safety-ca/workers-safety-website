@@ -11,15 +11,11 @@ type = "page"
 
 ***
 
-**COVID-19 NOTICE**
+**COVID-19 NOTICE:** The Workers' Health and Safety Legal Clinic's services are available by phone and email. We are not providing in-person services at this time. Our staff is available to help from Monday to Friday 9am to 5pm. Contact us by phone at 416-971-8832 or 1-877-832-6090, or by email at work@work.clcj.ca.
 
-**The Workers' Health and Safety Legal Clinic's services are available by phone and email. We are not providing in-person services at this time. Our staff is available to help from Monday to Friday 9am to 5pm. Contact us by phone at 416-971-8832 or 1-877-832-6090, or by email at work@work.clcj.ca.**
+--
 
-**
-
-**AVIS RELATIF À LA COVID-19**
-
-**Vous pouvez accéder aux services de la Workers' Health & Safety Legal Clinic (Clinique juridique de santé et sécurité des travailleurs) par téléphone et par courrier électronique. Pour le moment, nous n’offrons pas de services en personne. Notre personnel est disponible pour vous aider du lundi au vendredi de 9 h à 17 h. Communiquez avec nous par téléphone au 416 971-8832 ou au 1 877 832-6090, ou par courriel à work@work.clcj.ca.**
+**AVIS RELATIF À LA COVID-19 :** Vous pouvez accéder aux services de la Workers' Health & Safety Legal Clinic (Clinique juridique de santé et sécurité des travailleurs) par téléphone et par courrier électronique. Pour le moment, nous n’offrons pas de services en personne. Notre personnel est disponible pour vous aider du lundi au vendredi de 9 h à 17 h. Communiquez avec nous par téléphone au 416 971-8832 ou au 1 877 832-6090, ou par courriel à work@work.clcj.ca.
 
 ***
 
@@ -27,7 +23,7 @@ The Workers' Health and Safety Legal Clinic (WHSLC) provides legal services to l
 
 Your privacy is very important to us. The WHSLC follows the Law Society of Upper Canada's rules regarding client confidentiality.
 
-**
+--
 
 La Workers' Health and Safety Legal Clinic (WHSLC) fournit des services juridiques aux travailleurs non syndiqués à faible revenu qui ont besoin d’aide pour des questions juridiques liées à leurs droits en matière d’emploi ou de santé et sécurité au travail. Nos services juridiques comprennent des conseils juridiques sommaires, des services juridiques brefs, des recommandations et une représentation juridique.
 
