@@ -47,9 +47,3 @@ Ses activités sont réparties de manière équilibrée entre le traitement des 
 
 ##### [Go back / Retourner](/menu/about-us/)
 
-
-
-
--------
-
-##### [Go back](/menu/about-us/)
