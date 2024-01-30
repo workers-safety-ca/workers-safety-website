@@ -26,7 +26,7 @@ Our services are intended for low-income workers who do not have union membershi
 
 ## Admissibilité financière
 
-Nos services sont gratuitement mis à la disposition des travailleurs non syndiqués à faible revenu qui ont besoin d’aide pour des questions juridiques relevant du domaine d’activité de la clinique. Pour plus de renseignements sur nos domaines d’activité, consultez la section [**services juridiques**](/features/legal-services/) de notre site Web. Nous utilisons les critères d’admissibilité financière d’Aide juridique Ontario pour déterminer votre admissibilité aux services de notre clinique. Cette admissibilité se fonde sur la taille du ménage et le revenu.
+Nos services sont gratuitement mis à la disposition des travailleurs non syndiqués à faible revenu qui ont besoin d’aide pour des questions juridiques relevant du domaine d’activité de la clinique. Pour plus de renseignements sur nos domaines d’activité, consultez la section [**Services juridiques**](/features/legal-services/) de notre site Web. Nous utilisons les critères d’admissibilité financière d’Aide juridique Ontario pour déterminer votre admissibilité aux services de notre clinique. Cette admissibilité se fonde sur la taille du ménage et le revenu.
 
 
 #### Province de l’Ontario
@@ -38,6 +38,6 @@ La zone de service de notre clinique s’étend sur toute la province de l’Ont
 
 Nos services s’adressent aux travailleurs à faibles revenus qui ne jouissent pas de la protection syndicale. Cela dit, nous essayons également d’apporter une aide informative aux travailleurs syndiqués, à leurs syndicats et à leurs organisations.
 
-* **IMPORTANT : Si vous n’êtes pas sûr que nous puissions vous aider, veuillez [**communiquer avec nous**](/menu/contact/) pour de plus amples renseignements.** Veuillez noter : Il se peut que l’on vous pose des questions pour déterminer votre admissibilité à une aide. Si nous ne sommes pas en mesure de vous aider, nous vous fournirons des renseignements sur d’autres organismes, cliniques d’aide juridique ou services susceptibles de vous aider.
+* **IMPORTANT : Si vous n’êtes pas sûr que nous puissions vous aider, veuillez [**communiquez avec nous**](/menu/contact/) pour de plus amples renseignements.** Veuillez noter : Il se peut que l’on vous pose des questions pour déterminer votre admissibilité à une aide. Si nous ne sommes pas en mesure de vous aider, nous vous fournirons des renseignements sur d’autres organismes, cliniques d’aide juridique ou services susceptibles de vous aider.
 
 * * *
