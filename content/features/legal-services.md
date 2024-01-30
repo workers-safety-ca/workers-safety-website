@@ -11,11 +11,11 @@ type = "page"
 
 ***
 
-**COVID-19 NOTICE:** The Workers' Health and Safety Legal Clinic's services are available by phone and email. We are not providing in-person services at this time. Our staff is available to help from Monday to Friday 9am to 5pm. Contact us by phone at 416-971-8832 or 1-877-832-6090, or by email at [**work@work.clcj.ca**](mailto:work@work.clcj.ca).
+* **COVID-19 NOTICE:** The Workers' Health and Safety Legal Clinic's services are available by phone and email. We are not providing in-person services at this time. Our staff is available to help from Monday to Friday 9am to 5pm. Contact us by phone at 416-971-8832 or 1-877-832-6090, or by email at [**work@work.clcj.ca**](mailto:work@work.clcj.ca).
 
 --
 
-**AVIS RELATIF À LA COVID-19 :** Vous pouvez accéder aux services de la Workers' Health & Safety Legal Clinic (Clinique juridique de santé et sécurité des travailleurs) par téléphone et par courrier électronique. Pour le moment, nous n’offrons pas de services en personne. Notre personnel est disponible pour vous aider du lundi au vendredi de 9 h à 17 h. Communiquez avec nous par téléphone au 416 971-8832 ou au 1 877 832-6090, ou par courriel à [**work@work.clcj.ca**](mailto:work@work.clcj.ca).
+* **AVIS RELATIF À LA COVID-19 :** Vous pouvez accéder aux services de la Workers' Health & Safety Legal Clinic (Clinique juridique de santé et sécurité des travailleurs) par téléphone et par courrier électronique. Pour le moment, nous n’offrons pas de services en personne. Notre personnel est disponible pour vous aider du lundi au vendredi de 9 h à 17 h. Communiquez avec nous par téléphone au 416 971-8832 ou au 1 877 832-6090, ou par courriel à [**work@work.clcj.ca**](mailto:work@work.clcj.ca).
 
 ***
 
