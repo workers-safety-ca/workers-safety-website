@@ -162,10 +162,10 @@ pluralizelisttitles = false
     googleRecaptchaKey = "6Ldr-vQZAAAAANkqk5sABD9TjKyNwwhYbCcS0c5I"
 
     about_us = """<p>Advocating for workers' rights
-        <br>Défendre les droits des 
+        <br>Défendre les droits des travailleurs 
         <br>---
-        <br>MONDAY TO FRIDAY
-        <br>9AM TO 5PM
+        <br>MONDAY - FRIDAY
+        <br>9AM - 5PM
         <br>
         <br>DU LUNDI AU VENDREDI
         <br>9 h à 17 h
@@ -186,7 +186,8 @@ pluralizelisttitles = false
     contact_url = "/menu/contact"
     address = """<p class="text-uppercase"><strong>Workers' Health and Safety Legal Clinic</strong>
         <br>---
-        <br>180 Dundas St. West / 180 rue Dundas ouest
+        <br>180 Dundas St. West
+        <br>180 rue Dundas ouest
         <br>Suite 2000
         <br>Box 4 / Case postale 4
         <br>Toronto (Ontario)
@@ -273,7 +274,7 @@ pluralizelisttitles = false
     hide_summary = false
 
 [params.footer.recent_posts]
-    enable = true
+    enable = false
 
 [taxonomies]
   category = "categories"
