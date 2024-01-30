@@ -161,7 +161,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "6Ldr-vQZAAAAANkqk5sABD9TjKyNwwhYbCcS0c5I"
 
-    about_us = "<p>Advocating for workers' rights
+    about_us = """<p>Advocating for workers' rights
         <br>Défendre les droits des travailleurs
         </p>"
     copyright = "Copyright (c) 2023, WHSLC; all rights reserved."
