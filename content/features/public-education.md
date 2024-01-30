@@ -8,7 +8,7 @@ type = "page"
 
 +++
 
-# Public Legal Education / Éducation juridique du public
+## Public Legal Education / Éducation juridique du public
 
 _La version en français suit le texte en anglais._
 
@@ -26,15 +26,17 @@ If you are interested in booking a workshop, please [**contact us**](/menu/conta
 
 --
 
-### Know Your Rights! Protect your health and safety!
+#### Know Your Rights! Protect your health and safety!
 
 As a worker in Ontario, you have basic health and safety rights. It is against the law for your boss to fire you or punish you (or threaten to fire or punish you) for using your health and safety rights.
 
-**To learn more:** [**Work Safe: Your Health and Safety at Work**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2020+Work+Safe+Guide/Work+Safe+Guide+-+2020.pdf "Work Safe Guide 2020")
+* **To learn more:** [**Work Safe: Your Health and Safety at Work**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2020+Work+Safe+Guide/Work+Safe+Guide+-+2020.pdf "Work Safe Guide 2020")
 
 ---
 
-# Éducation juridique du public
+
+## Éducation juridique du public
+
 
 La Workers' Health and Safety Legal Clinic (WHSLC) a mis l’accent sur l’éducation juridique du public par le biais de présentations orales et d’ateliers destinés aux agences communautaires, aux écoles, aux programmes d’insertion professionnelle, aux programmes d’apprentissage et aux programmes de préparation à l’emploi tels que les cours de langue de niveau avancé.
 
@@ -48,7 +50,7 @@ Si vous souhaitez réserver la tenue d’un atelier, veuillez [**communiquez ave
 
 --
 
-### Connaissez vos droits! Protégez votre santé et sécurité!
+#### Connaissez vos droits! Protégez votre santé et sécurité!
 
 En tant que travailleur en Ontario, vous avez des droits fondamentaux en matière de santé et sécurité. La loi interdit à votre patron de vous congédier ou de vous punir (ou de menacer de vous congédier ou de vous punir) pour avoir exercé vos droits en matière de santé et sécurité.
 
