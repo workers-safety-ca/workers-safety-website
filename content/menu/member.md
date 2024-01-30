@@ -33,8 +33,6 @@ Pour devenir membre, vous devez être un résident de l’Ontario âgé de 18 an
 
 Vous pouvez vous inscrire en ligne pour devenir membre de la clinique en remplissant et en envoyant le [**formulaire de demande d’adhésion**](https://goo.gl/forms/VtmDGDKXLnLXCV1S2) suivant.
 
---
-
 >_**Énoncé de mission :** La Workers' Health and Safety Legal Clinic (WHSLC) s’engage à promouvoir des lieux de travail sécuritaires et sains dans tout l’Ontario, en mettant l’accent sur le secteur de la main-d’œuvre qui est non syndiqué. Nous cherchons à le faire en informant les travailleurs de leurs droits juridiques fondamentaux au travail dans les domaines de la santé et sécurité, de l’indemnisation des travailleurs, des droits de la personne et des normes d’emploi, ainsi qu’en fournissant des conseils juridiques et une représentation aux travailleurs non syndiqués qui tentent d’améliorer les conditions sur leur lieu de travail. Nous représentons notamment les travailleurs qui ont été illégalement sanctionnés ou congédiés pour avoir exercé leurs droits.À plus grande échelle, nous travaillons de manière indépendante et avec d’autres groupes, agences et organisations aux vues similaires pour plaider en faveur de l’adoption de normes améliorées concernant la santé et sécurité sur le lieu de travail et les droits en matière d’emploi._
 
 ***
