@@ -7,6 +7,10 @@ type = "page"
 
 +++
 
+_La version en français suit le texte en anglais._
+
+--
+
 The Workers’ Health and Safety Legal Clinic (WHSLC) participates in law reform and community development activities that benefit or assist low wage non-unionized workers in Ontario.
 
 Law reform is an important component to WHSLC activities. We engage in networking with like-minded organizations, and we participate in a variety of law reform and community development initiatives that seek to make systematic changes to the laws and policies governing employment, health and safety, workers' compensation and related workplace laws.
