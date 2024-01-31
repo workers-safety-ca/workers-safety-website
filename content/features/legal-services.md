@@ -23,11 +23,27 @@ type = "page"
 
 The Workers' Health and Safety Legal Clinic (WHSLC) provides legal services to low-income non-unionized workers who need assistance with legal matters that relate to their employment rights or their health and safety rights at work. Our legal services include summary legal advice, brief legal services, referrals, and legal representation.
 
+
+* [Clinic Pamphlet - Employment.pdf](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/WHSLC-EmploymentPamphlet-final-Eng.pdf)
+
+
+* [Clinic Pamphlet - Health and Safety.pdf](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/WHSLC-HealthSafetyPamphlet-final-Eng.pdf)
+
+
 Your privacy is very important to us. The WHSLC follows the rules of the [Law Society of Ontario](https://lso.ca/home) regarding client confidentiality.
+
+
 
 --
 
 La Workers' Health and Safety Legal Clinic (WHSLC) fournit des services juridiques aux travailleurs non syndiqués à faible revenu qui ont besoin d’aide pour des questions juridiques liées à leurs droits en matière d’emploi ou de santé et sécurité au travail. Nos services juridiques comprennent des conseils juridiques sommaires, des services juridiques brefs, des recommandations et une représentation juridique.
+
+
+* [Dépliant clinique - Emploi.pdf](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/WHSLC-EmploymentPamphlet-final-FR.pdf)
+
+
+* [Dépliant clinique - Santé et sécurité.pdf](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/WHSLC-HealthSafetyPamphlet-final-FR.pdf)
+
 
 Nous accordons une grande importance à la protection de votre vie privée. La WHSLC respecte les règles du [Barreau de l’Ontario](https://lso.ca/accueil) en matière de confidentialité des clients.
 
