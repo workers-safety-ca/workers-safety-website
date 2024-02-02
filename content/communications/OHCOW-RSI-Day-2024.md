@@ -13,31 +13,39 @@ Due its ever-expanding audience, this year’s event will again be held virtuall
 
 Registration for this free event is required in order to participate.
 
-#### For a detail agenda, dates, times, and registration - [Click Here](https://www.ohcow.on.ca/ohcow-events/repetitive-strain-injury-rsi-day/)
+[**Click Here**](https://www.ohcow.on.ca/ohcow-events/repetitive-strain-injury-rsi-day/) for a detail agenda, dates, times, and registration - 
 
 ---
 
-#### Week 1 - Focus on Workers: 25 year History & Opioid Harm Reduction
-Thursday, February 8, 2024 --- 10:00 am - 12:30 pm EST
-* Topics include: The History of RSI Day; Chronic Musculoskeletal Pain and Opioid Misuse; Opioid-Related Harms Among Ontario Workers
+**Week 1 - Focus on Workers: 25 year History & Opioid Harm Reduction**
+
+Thursday, February 8, 2024 - 10:00am to 12:30pm
+
+* Topics include: The History of RSI Day - Chronic Musculoskeletal Pain and Opioid Misuse - Opioid-Related Harms Among Ontario Workers
 
 ---
 
-#### Week 2 - Clinical Lessons on Key Musculoskeletal Disorders
-Thursday, February 15, 2024 --- 10:00 am - 12:30 pm EST
-* Topics include: Plantar Fasciitis; Improved and Systematic Physical Demand Analysis in the Workplace; Epicondylitis 
+**Week 2 - Clinical Lessons on Key Musculoskeletal Disorders**
+
+Thursday, February 15, 2024 - 10:00am to 12:30pm
+
+* Topics include: Plantar Fasciitis - Improved and Systematic Physical Demand Analysis in the Workplace - Epicondylitis 
 
 ---
 
-#### Week 3 - Cost/Benefit: Understanding Financial & Psychosocial Harm
-Thursday, February 22, 2024 --- 10:00 am - 12:30 pm EST
-* Topics include: Ergonomics Intervention Cost-Benefit Calculator; Ontario's Cost Calculator and Related Resources; Measuring Workplace Stress Among RSI Day Participants – 6 years later 
+**Week 3 - Cost/Benefit: Understanding Financial & Psychosocial Harm**
+
+Thursday, February 22, 2024 - 10:00am to 12:30pm
+
+* Topics include: Ergonomics Intervention Cost-Benefit Calculator - Ontario's Cost Calculator and Related Resources - Measuring Workplace Stress Among RSI Day Participants – 6 years later 
 
 ---
 
-#### Week 4 - Knowledge@OHCOW: Products & Tools for Workers & Workplaces
-Thursday, February 29, 2024 --- 10:00 am - 12:30 pm EST
-* Topics include: Office Ergonomics Learning Modules; Revised and Updated Office Ergo Calculator, Anthropometric Calculator, Keyboard Shortcut Tutorial, and Cold Stress Calculator; Introducing JobAssess, a New Job Demands Analysis Tool
+**Week 4 - Knowledge @ OHCOW: Products & Tools for Workers & Workplaces**
+
+Thursday, February 29, 2024 - 10:00am to 12:30pm
+
+* Topics include: Office Ergonomics Learning Modules; Revised and Updated Office Ergo Calculator - Anthropometric Calculator Keyboard Shortcut Tutorial and Cold Stress Calculator - Introducing JobAssess, a New Job Demands Analysis Tool
 
 ---
 
