@@ -3,7 +3,7 @@ banner = "img/banners/OHCOW-RSI Day.png"
 categories = ["Events"]
 date = "2024-02-02T09:38:50-04:00"
 tags = ["hazards", "musculoskeletal disorders", "injured-workers"]
-title = "OHCOW's RSI Day 2024"
+title = "OHCOW's RSI Day Webinar Series 2024"
 
 +++
 
