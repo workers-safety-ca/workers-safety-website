@@ -3,7 +3,7 @@ banner = "img/banners/NewsletterLogo-Summer2017.jpg"
 categories = ["Newsletter"]
 date = "2017-08-21T00:00:00-04:00"
 tags = ["hazards", "injured-workers", "undocumented-workers"]
-title = " Summer 2017 Newsletter – Vol. 25, No. 2"
+title = "Summer 2017 Newsletter – Vol. 25, No. 2"
 
 +++
 The Workers’ Health and Safety Legal Clinic is pleased to publish its **Summer 2017 Newsletter – Vol. 25, No. 2**.
