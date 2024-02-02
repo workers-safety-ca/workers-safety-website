@@ -37,7 +37,7 @@ Thursday, February 15, 2024 - 10:00am to 12:30pm
 
 Thursday, February 22, 2024 - 10:00am to 12:30pm
 
-* Topics include: Ergonomics Intervention Cost-Benefit Calculator - Ontario's Cost Calculator and Related Resources - Measuring Workplace Stress Among RSI Day Participants – 6 years later 
+* Topics include: Ergonomics Intervention Cost-Benefit Calculator - Ontario's Cost Calculator and Related Resources - Measuring Workplace Stress Among RSI Day Participants (6 years later)
 
 ---
 
