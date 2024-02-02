@@ -13,7 +13,7 @@ Due its ever-expanding audience, this year’s event will again be held virtuall
 
 Registration for this free event is required in order to participate.
 
-[**Click Here**](https://www.ohcow.on.ca/ohcow-events/repetitive-strain-injury-rsi-day/) for a detail agenda, dates, times, and registration - 
+[**Click Here**](https://www.ohcow.on.ca/ohcow-events/repetitive-strain-injury-rsi-day/) for a detail agenda, dates, times, and registration for the webinar series events. 
 
 ---
 
