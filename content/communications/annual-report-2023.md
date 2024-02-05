@@ -1,9 +1,9 @@
 +++
 banner = "img/banners/logo-AnnualReport2023.png"
 categories = ["report"]
-date = "2023-11-21T12:30:37-05:00"
+date = "2023-11-21T09:38:50-04:00"
 draft = false
-tags = ["report]
+tags = ["report"]
 title = "Annual Report 2023"
 
 +++
