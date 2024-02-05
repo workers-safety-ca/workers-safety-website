@@ -11,7 +11,7 @@ title = "WHSC's Discounted Workplace Health & Safety Training"
 
 ---
 
-**[Workers Health & Safety Centre (WHSC)](https://www.whsc.on.ca/home)** is Ontario’s official government-designated health and safety training centre, and provides essential high-quality training to workers, their representatives, supervisors, and employers, in public and private sector workplaces in the province. Due to one-time funding from Ontario’s Ministry of Labour, Immigration, Training and Skills Development, the Workers Health and Safety Centre is providing deeply discounted - free or low-cost - Occupational health adn safety training programs.
+**[Workers Health & Safety Centre (WHSC)](https://www.whsc.on.ca/home)** is Ontario’s official government-designated health and safety training centre, and provides essential high-quality training to workers, their representatives, supervisors, and employers, in public and private sector workplaces in the province. Due to one-time funding from Ontario’s Ministry of Labour, Immigration, Training and Skills Development, the Workers Health and Safety Centre is providing deeply discounted - free or low-cost - Occupational health and safety training programs.
 
 ---
 ### [Special Offer - Available for a limited time!](https://www.whsc.on.ca/Training/Training-Registration/Low-Cost-No-Cost-Training-Courses)
