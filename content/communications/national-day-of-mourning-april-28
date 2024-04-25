@@ -1,9 +1,9 @@
 +++ 
-banner = "static/img/banners/DOM_EventThumb_ENG.png" 
-categories = ["resources"] 
-date = 2024-04-22T13:00:00Z 
-tags = ["health and safety", "events", "injured workers"] 
-title = "National Day of Mourning - April 28, 2024."
+banner = "img/banners/DOM_EventThumb_ENG.png" 
+categories = ["event"] 
+date = 2024-04-22T09:38:50-04:00 
+tags = ["health-and-safety", "injured-workers"] 
+title = "National Day of Mourning - April 28, 2024"
 
 +++ 
 Marked annually in Canada on April 28th, the **National Day of Mourning** is dedicated to remembering those who have lost their lives, or suffered injury or illness due to a workplace tragedy.
