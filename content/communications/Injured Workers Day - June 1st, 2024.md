@@ -21,7 +21,7 @@ The Workers' Health and Safety Legal Clinic is grateful for the continued colloa
 
 Location:    **Queen's Park** - 110 Wellesley Street West 
 
-Click to access [Map](https://maps.app.goo.gl/vzBzRkVRFEEqF62A8).
+* Click to access [Map](https://maps.app.goo.gl/vzBzRkVRFEEqF62A8).
 
 * Visit [Event Page](https://www.facebook.com/events/779638540974408)
 
@@ -33,7 +33,7 @@ Click to access [Map](https://maps.app.goo.gl/vzBzRkVRFEEqF62A8).
 
 Location:    **Victoria Park** - North-West Corner (at Central Avenue and Wellington Street East) 
 
-Click to access [Map](https://maps.app.goo.gl/AxXTMhtWTS4Ds72G9).
+* Click to access [Map](https://maps.app.goo.gl/AxXTMhtWTS4Ds72G9).
 
 * Visit [Event Page](https://www.justice4workers.org/2024_06_01_injured_workers_day)
 
@@ -45,7 +45,7 @@ Click to access [Map](https://maps.app.goo.gl/AxXTMhtWTS4Ds72G9).
 
 Location:    **City Hall Flag Raising** - 500 Donald Street East 
 
-Click to access [Map](https://maps.app.goo.gl/m3u2PvRM7pD9fWjL9).
+* Click to access [Map](https://maps.app.goo.gl/m3u2PvRM7pD9fWjL9).
 
 ---
 
