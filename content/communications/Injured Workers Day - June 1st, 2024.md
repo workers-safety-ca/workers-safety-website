@@ -15,7 +15,8 @@ The Workers' Health and Safety Legal Clinic is grateful for the continued colloa
 ---
 ### Injured Workers' Day Events
 
-**TORONTO** / **Saturday, June 1st, 2024 --- 11:00 am** 
+**TORONTO** 
+**Saturday, June 1st, 2024 --- 11:00 am** 
 
 Location:    **Queen's Park** - 110 Wellesley Street West 
 
@@ -25,7 +26,8 @@ Click to access [Map](https://maps.app.goo.gl/vzBzRkVRFEEqF62A8).
 
 ---
 
-**LONDON** / **Saturday, June 1st, 2024 --- 11:00 am**
+**LONDON** 
+**Saturday, June 1st, 2024 --- 11:00 am**
 
 Location:    **Victoria Park** - North-West Corner (at Central Avenue and Wellington Street East) 
 
@@ -35,7 +37,8 @@ Click to access [Map](https://maps.app.goo.gl/AxXTMhtWTS4Ds72G9).
 
 ---
 
-**THUNDER BAY** / **Friday, May 30th, 2024 --- 10:00 am**
+**THUNDER BAY** 
+**Friday, May 30th, 2024 --- 10:00 am**
 
 Location:    **City Hall Flag Raising** - 500 Donald Street East 
 
