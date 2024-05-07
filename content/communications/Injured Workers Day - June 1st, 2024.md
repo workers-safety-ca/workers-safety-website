@@ -13,28 +13,33 @@ The day commemorates June 1st, 1983 when over three thousand injured workers for
 The Workers' Health and Safety Legal Clinic is grateful for the continued colloaborative efforts of Ontario Network of Injured Workers' Groups, unions, advocacy and community organizations that every day look to push for change. 
 
 ---
-####Injured Workers' Day Events
+### Injured Workers' Day Events
 
 **TORONTO**
-Saturday, June 1st, 2024
-11:00 am 
+
+Saturday, June 1st, 2024 --- 11:00 am 
+
 [Queen's Park](https://maps.app.goo.gl/vzBzRkVRFEEqF62A8)
-Visit [Event Page](https://www.facebook.com/events/779638540974408)
+
+* Visit [Event Page](https://www.facebook.com/events/779638540974408)
 
 **LONDON** 
-Saturday, June 1st, 2024
-11:00 am 
+
+Saturday, June 1st, 2024 --- 11:00 am 
+
 [Victoria Park](https://maps.app.goo.gl/AxXTMhtWTS4Ds72G9) - meet at the North-West Corner.
+
 Visit [Event Page](https://www.justice4workers.org/2024_06_01_injured_workers_day)
 
 **THUNDER BAY** 
-Friday, May 30th, 2024
-10:00 am 
+
+Friday, May 30th, 2024 --- 10:00 am 
+
 [City Hall Flag Raising](https://maps.app.goo.gl/m3u2PvRM7pD9fWjL9)
 
 ---
 
-###Support OFL's Injured Workers' Bill of Rights
+### Support OFL's Injured Workers' Bill of Rights
 
 This year - whether you can attend an in-person event or not - we are asking for people to pledge support for the **Ontario Federation of Labour's** [Injured Workers' Bill of Rights](https://ofl.ca/action/injured-workers-bill-of-rights/). 
 
