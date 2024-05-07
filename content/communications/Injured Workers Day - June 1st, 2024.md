@@ -19,7 +19,7 @@ The Workers' Health and Safety Legal Clinic is grateful for the continued colloa
 
 **Saturday, June 1st, 2024 --- 11:00 am** 
 
-Location:    **Queen's Park** - 110 Wellesley Street West 
+**Queen's Park** - 110 Wellesley Street West 
 
 * Click to access [Map](https://maps.app.goo.gl/vzBzRkVRFEEqF62A8).
 
@@ -31,7 +31,7 @@ Location:    **Queen's Park** - 110 Wellesley Street West
 
 **Saturday, June 1st, 2024 --- 11:00 am**
 
-Location:    **Victoria Park** - North-West Corner (at Central Avenue and Wellington Street East) 
+**Victoria Park** - North-West Corner (at Central Avenue and Wellington Street East) 
 
 * Click to access [Map](https://maps.app.goo.gl/AxXTMhtWTS4Ds72G9).
 
@@ -43,7 +43,7 @@ Location:    **Victoria Park** - North-West Corner (at Central Avenue and Wellin
 
 **Friday, May 30th, 2024 --- 10:00 am**
 
-Location:    **City Hall Flag Raising** - 500 Donald Street East 
+**City Hall Flag Raising** - 500 Donald Street East 
 
 * Click to access [Map](https://maps.app.goo.gl/m3u2PvRM7pD9fWjL9).
 
