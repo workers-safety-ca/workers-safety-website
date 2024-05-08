@@ -53,7 +53,7 @@ The Workers' Health and Safety Legal Clinic is grateful for the continued colloa
 
 This year - whether you can attend an in-person event or not - we are asking for people to pledge support for the **Ontario Federation of Labour's** [**Injured Workers' Bill of Rights**](https://ofl.ca/action/injured-workers-bill-of-rights/). 
 
-It demands the Province of Ontario to enshrine basic protections for those who are injured and made ill at work, including important items like: 
+It demands the Province of Ontario to enshrine basic protections for those who are injured and made ill at work, including important changes like: 
 * WSIB coverage for all workers
 * unimpeded access to healthcare
 * outlawing deeming/phantom jobs
