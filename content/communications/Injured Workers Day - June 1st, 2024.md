@@ -8,7 +8,7 @@ title = "Injured Workers' Day - June 1st, 2024."
 +++
 On June 1st every year, **Injured Workers' Day** is an opportunity to recognize the individuals who have suffered injuries and fatalities as a result of their workplace conditions, but it is also a time to rally and celebrate the gains made through united action, raise current concerns, and remind governments we cannot be ignored.
 
-The day commemorates June 1st, 1983 when over three thousand injured workers forced a government committee looking at major changes Ontario’s workers’ compensation system to conduct a public hearing on the steps of the Legislature. 
+The day commemorates June 1st, 1983 when over three thousand injured workers forced a government committee looking at major changes to Ontario’s workers’ compensation system to conduct a public hearing on the steps of the Legislature. 
 
 The Workers' Health and Safety Legal Clinic is grateful for the continued colloaborative efforts of Ontario Network of Injured Workers' Groups, unions, advocacy and community organizations that every day look to push for safer workplaces and better protections for workers. 
 
@@ -53,7 +53,7 @@ The Workers' Health and Safety Legal Clinic is grateful for the continued colloa
 
 This year - whether you can attend an in-person event or not - we are asking for people to pledge support for the **Ontario Federation of Labour's** [**Injured Workers' Bill of Rights**](https://ofl.ca/action/injured-workers-bill-of-rights/). 
 
-It demands the Province of Ontario to enshrine basic protections for those who are injured and made ill at work, including important changes like: 
+It demands the Province of Ontario to enshrine basic protections for those who are injured and made ill at work, including important items like: 
 * WSIB coverage for all workers
 * unimpeded access to healthcare
 * outlawing deeming/phantom jobs
